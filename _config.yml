@@ -1,0 +1,13 @@
+# Üldised määratlused
+title: RIHA
+baseurl: "https://ria-eidas.github.io/eidas-node"
+
+defaults:
+  -
+    scope:
+      path: "" # Kõik failid
+    values:
+      layout: "IT"
+      draft: "false"
+      sidebar: "true"
+

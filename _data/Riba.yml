@@ -1,0 +1,24 @@
+- title: "Autentimisteenused"
+  categories:
+  - title: "Ülevaade"
+    url: "/Ylevaade"
+  - title: "Piiriülesed"
+    categories:
+    - title: "eIDAS väljaminev"
+      url: "/A1"
+    - title: "eIDAS sissetulev"
+      url: "/A2"  
+    - title: "eIDAS konnektor"  
+      url: "/A3"
+  - title: "Siseriiklikud"
+    categories:
+    - title: "Ühekordse sisselogimise teenus"
+      url: "/A4"
+    - title: "Siseriiklik autentimisteenus"
+      url: "/A5"
+
+- title: "Juhendid"
+  categories:
+  - title: "eIDAS konnektorteenus. Liidestumisjuhend"
+    url: "/eIDAS-konnektorteenus-liidestumisjuhend"
+
