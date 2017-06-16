@@ -11,3 +11,5 @@ defaults:
       draft: "false"
       sidebar: "true"
 
+
+theme: jekyll-theme-cayman
