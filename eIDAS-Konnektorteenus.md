@@ -1,6 +1,6 @@
 ---
-title: eIDAS konnektorteenus. Liidestumisjuhend
-permalink: eIDAS-konnektorteenus-liidestumisjuhend
+title: eIDAS konnektorteenus. Liidestamisjuhend
+permalink: eIDAS-konnektorteenus-liidestamisjuhend
 sidebar: false
 alttitle: eIDAS konnektorteenus
 ---
